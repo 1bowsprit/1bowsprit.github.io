@@ -1,3 +1,3 @@
 # 1bowsprit.github.io
 
-Image storage for https://bowsprit.nekoweb.org
+Image storage for https://bowsprit.neocities.org
